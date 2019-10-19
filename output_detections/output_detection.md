@@ -1,1 +1,1 @@
-this folder store the detection coordinate of PCB image
+this folder store the detection coordinate of PCB images
